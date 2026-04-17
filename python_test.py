@@ -1,0 +1,9 @@
+# Simple for loop example
+for i in range(5):
+    print(f"Iteration {i}")
+
+# While loop example
+count = 0
+while count < 5:
+    print(f"Count: {count}")
+    count += 1
